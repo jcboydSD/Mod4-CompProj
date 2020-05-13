@@ -1,0 +1,16 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+}
+h2, h3 {
+    color: cornflowerblue;
+    line-height: .5;
+}
+body {
+    background-color: bisque;
+    color: gray;
+    text-align: left;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
